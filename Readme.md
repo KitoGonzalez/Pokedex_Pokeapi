@@ -1,5 +1,5 @@
 # Pokedex by Kito Gonzalez
-Pokedex creada con pokeapi
+Pokedex creada con Pokeapi
 
 <img src="imgReadme.png" alt="poke" border="0"  width="400" />
 
